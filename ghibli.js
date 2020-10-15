@@ -31,7 +31,7 @@ function loadGhibli () {
     },
     {
       "name": "Whisper of the Heart",
-      "source": "https://lh3.googleusercontent.com/proxy/u-hg4G8HzuXNiV7YvDGWswt6cwLAB0c0938GizLCj63cYCbiG7flZo6qjF8Bl1LhcrzbsytuM8cmPKmG4ad61o3ax3knZIIg8Xg3-lZuwul7-il-X0IW"
+      "source": "https://lh3.googleusercontent.com/proxy/1FqQS4p7b6-AEIpV0O2dBoqkxwNIAwbBXNBuXP1bQ3NbW8cR8LcB_u17JFGexyiM0_odHjfxy2RLM-TjKQEV5hYCe24yFThL1Chg6S2Mvbw6i7jDFdCm"
     },
     {
       "name": "Princess Mononoke",
@@ -79,7 +79,7 @@ function loadGhibli () {
     },
     {
       "name": "When Marnie Was There",
-      "source": "https://lh3.googleusercontent.com/proxy/Ku8i_zb1NnkcarkxQtqSsGXVNDY3km-gPlFOGPFXgWGlbPzkzzp4z4FHOewHKQQtbUTYGzF7DLLtXL8te8YghquhhynYPfd2nUiX60sxN4q_pjiIIONtAtUjZCOpXg"
+      "source": "https://www.beautifulfraud.com/wp/wp-content/uploads/2016/05/when-marnie-was-there.jpg"
     },
   ]
   var myurl = "https://ghibliapi.herokuapp.com/films";
